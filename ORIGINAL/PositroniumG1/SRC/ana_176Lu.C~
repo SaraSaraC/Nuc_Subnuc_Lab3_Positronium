@@ -1,0 +1,8 @@
+void ana_176Lu(TString Fname="../Data/176Lu.asc"){
+
+  TH1D* h = new TH1D("h",Fname.Data() );
+
+
+
+
+}
